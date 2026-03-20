@@ -20,7 +20,7 @@ This project demonstrates the implementation of an end-to-end RAG pipeline using
 - 🤖 Context-based answer generation using OpenAI LLM
 - 📊 Document statistics (Total pages, files, characters)
 - 💬 Interactive chat interface (Streamlit)
-- 📋 Copy response feature
+- 📋 Copy response features
 - ⬇ Download full chat history
 - 🗑 Clear chat functionality
 - ⚙ Adjustable model parameters (Temperature & Max Tokens)
