@@ -2,44 +2,6 @@
 
 An AI-powered Retrieval-Augmented Generation (RAG) chatbot that enables intelligent question answering from uploaded PDF documents using semantic search and large language models.
 
----
-
-## 🚀 Project Overview
-
-RetrievalDocBot allows users to upload multiple PDF files and ask context-aware questions.  
-The system retrieves relevant document chunks using vector similarity search and generates accurate answers strictly based on the uploaded content.
-
-This project demonstrates the implementation of an end-to-end RAG pipeline using LangChain, OpenAI, and FAISS.
-
----
-
-## ✨ Features
-
-- 📂 Upload up to 10 PDF documents
-- 🔍 Semantic search using FAISS
-- 🤖 Context-based answer generation using OpenAI LLM
-- 📊 Document statistics (Total pages, files, characters)
-- 💬 Interactive chat interface (Streamlit)
-- 📋 Copy response features
-- ⬇ Download full chat history
-- 🗑 Clear chat functionality
-- ⚙ Adjustable model parameters (Temperature & Max Tokens)
-
----
-
-## 🧠 Tech Stack
-
-| Technology     | Purpose                     |
-|---------------|-----------------------------|
-| Python        | Backend Logic               |
-| Streamlit     | Web Interface               |
-| LangChain     | RAG Pipeline                |
-| OpenAI API    | LLM & Embeddings            |
-| FAISS         | Vector Similarity Search    |
-| pdfplumber    | PDF Text Extraction         |
-
----
-
 ## 🔄 How It Works
 
 1. User uploads PDF documents.
