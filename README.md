@@ -15,7 +15,7 @@ An AI-powered Retrieval-Augmented Generation (RAG) chatbot that enables intellig
 
 ---
 
-## 🛠 Installation & Setup 
+## 🛠 Installation & Setup
 
 ### 1️⃣ Clone Repository
 
