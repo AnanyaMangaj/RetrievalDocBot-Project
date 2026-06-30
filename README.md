@@ -1,4 +1,4 @@
-# 📄 RetrievalDocBot – RAG Based PDF Chatbot
+# 📄 RetrievalDocBot – RAG Based pdf Chatbot
 
 An AI-powered Retrieval-Augmented Generation (RAG) chatbot that enables intelligent question answering from uploaded PDF documents using semantic search and large language models.
 
