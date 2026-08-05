@@ -38,7 +38,7 @@ venv\Scripts\activate      # For Windows
 pip install -r requirements.txt
 ```
 
-### 4️⃣ Add OpenAI API Key
+### 4️⃣ Add OpenAI API Key 
 
 Create a file named:
 
