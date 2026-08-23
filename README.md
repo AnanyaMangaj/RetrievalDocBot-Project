@@ -17,7 +17,7 @@ An AI-powered Retrieval-Augmented Generation (RAG) chatbot that enables intellig
 
 ## 🛠 Installation & Setup
 
-### 1️⃣ Clone Repository
+### 1️⃣ Clone Repository 
 
 ```bash
 git clone https://github.com/yourusername/RAG-PDF-Chatbot.git
