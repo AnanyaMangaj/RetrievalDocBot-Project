@@ -96,7 +96,7 @@ This project is developed for educational and portfolio purposes.
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Author 
 
 **Ananya Mangaj**  
 B.E. Artificial Intelligence & Data Science  
