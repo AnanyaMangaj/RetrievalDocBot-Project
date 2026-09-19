@@ -78,7 +78,7 @@ streamlit run app.py
 - Designed an interactive AI application
 - Implemented session-based chat history management
 
----
+--- 
 
 ## 📌 Future Enhancements
 
