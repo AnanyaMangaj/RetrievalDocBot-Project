@@ -24,7 +24,7 @@ git clone https://github.com/yourusername/RAG-PDF-Chatbot.git
 cd RAG-PDF-Chatbot
 ```
 
-### 2️⃣ Create Virtual Environment
+### 2️⃣ Create Virtual Environment 
 
 ```bash
 python -m venv venv
