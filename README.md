@@ -1,4 +1,4 @@
-⁹# 📄 RetrievalDocBot – RAG Based PDF Chatbot      
+⁸⁹# 📄 RetrievalDocBot – RAG Based PDF Chatbot      
 
 An AI-powered Retrieval-Augmented Generation (RAG) chatbot that enables intelligent question answering from uploaded PDF documents using semantic search and large language models.
 
@@ -33,7 +33,7 @@ venv\Scripts\activate      # For Windows
 ```
 
 ### 3️⃣ Install Dependencies
-
+     
 ```bash
 pip install -r requirements.txt
 ```
