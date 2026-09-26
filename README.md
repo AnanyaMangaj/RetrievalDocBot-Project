@@ -23,7 +23,7 @@ An AI-powered Retrieval-Augmented Generation (RAG) chatbot that enables intellig
 git clone https://github.com/yourusername/RAG-PDF-Chatbot.git
 cd RAG-PDF-Chatbot
 ```
-
+  
 ### 2️⃣ Create Virtual Environment 
 
 ```bash
