@@ -1,4 +1,4 @@
-# 📄 RetrievalDocBot – RAG Based PDF Chatbot      
+⁹# 📄 RetrievalDocBot – RAG Based PDF Chatbot      
 
 An AI-powered Retrieval-Augmented Generation (RAG) chatbot that enables intelligent question answering from uploaded PDF documents using semantic search and large language models.
 
@@ -96,7 +96,7 @@ This project is developed for educational and portfolio purposes.
 
 ---
 
-## 👨‍💻 Author 
+## 👨‍💻 Author
 
 **Ananya Mangaj**  
 B.E. Artificial Intelligence & Data Science  
