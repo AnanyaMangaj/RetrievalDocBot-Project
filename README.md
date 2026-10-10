@@ -12,7 +12,7 @@ An AI-powered Retrieval-Augmented Generation (RAG) chatbot that enables intellig
 6. Relevant chunks are retrieved using MMR search.
 7. Retrieved context is passed to GPT model.
 8. Model generates an accurate answer based only on provided context.
-
+    
 ---
 
 ## 🛠 Installation & Setup  
