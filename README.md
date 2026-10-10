@@ -39,7 +39,7 @@ pip install -r requirements.txt
 ```
 
 ### 4️⃣ Add OpenAI API Key      
-
+     
 Create a file named:
 
 ```
