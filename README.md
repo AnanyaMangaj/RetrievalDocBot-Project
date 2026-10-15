@@ -49,7 +49,7 @@ config.py
 Add:
 
 ```python
-OPENAI_API_KEY = "your_openai_api_key_here"
+OPENAI_API_KEY = "your_openai_api_key_here"        
 ```
 
 ### 5️⃣ Run Application
