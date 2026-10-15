@@ -100,4 +100,4 @@ This project is developed for educational and portfolio purposes.
 
 **Ananya Mangaj**  
 B.E. Artificial Intelligence & Data Science  
-AI/ML Enthusiast | RAG | Generative AI | Data Science
+AI/ML Enthusiast | RAG | Generative AI | Data Science.      
