@@ -1,4 +1,4 @@
-⁸⁹# 📄 RetrievalDocBot – RAG Based PDF Chatbot      
+⁶⁸⁹# 📄 RetrievalDocBot – RAG Based PDF Chatbot      
 
 An AI-powered Retrieval-Augmented Generation (RAG) chatbot that enables intelligent question answering from uploaded PDF documents using semantic search and large language models.
 
@@ -14,7 +14,7 @@ An AI-powered Retrieval-Augmented Generation (RAG) chatbot that enables intellig
 8. Model generates an accurate answer based only on provided context.
     
 ---
-
+        
 ## 🛠 Installation & Setup                
       
 ### 1️⃣ Clone Repository 
