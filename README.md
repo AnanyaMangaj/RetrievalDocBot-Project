@@ -60,7 +60,7 @@ streamlit run app.py
 
 ---
 
-## 📸 Application Preview
+## 📸 Application Preview.         
 
 - Upload PDFs  
 - Ask questions  
