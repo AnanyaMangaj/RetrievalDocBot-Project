@@ -8,7 +8,7 @@ An AI-powered Retrieval-Augmented Generation (RAG) chatbot that enables intellig
 2. Text is extracted using pdfplumber.
 3. Text is split into chunks using LangChain.
 4. OpenAI embeddings convert chunks into vectors.               
-5. FAISS stores vectors for semantic retrieval.
+5. FAISS stores vectors for semantic retrieval.       
 6. Relevant chunks are retrieved using MMR search.
 7. Retrieved context is passed to GPT model.
 8. Model generates an accurate answer based only on provided context.
