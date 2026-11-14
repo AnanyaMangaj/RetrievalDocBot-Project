@@ -3,7 +3,7 @@
 An AI-powered Retrieval-Augmented Generation (RAG) chatbot that enables intelligent question answering from uploaded PDF documents using semantic search and large language models.
 
 ## 🔄 How It Works     
-
+    
 1. User uploads PDF documents.
 2. Text is extracted using pdfplumber.
 3. Text is split into chunks using LangChain.
