@@ -55,7 +55,7 @@ OPENAI_API_KEY = "your_openai_api_key_here"
 ### 5️⃣ Run Application
 
 ```bash
-streamlit run app.py
+streamlit run app.py         
 ```
 
 ---
